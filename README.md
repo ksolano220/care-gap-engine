@@ -2,7 +2,9 @@
 
 Population health outreach prioritization. Built for primary care teams sitting on a HEDIS or value-based care contract who can identify open care gaps but struggle to convert outreach into closed gaps.
 
-**Live demo:** _[deploy URL goes here]_
+**Live demo:** [care-gap-engine.streamlit.app](https://care-gap-engine.streamlit.app)
+
+[![Care Gap Outreach Engine — prioritized queue with score breakdown, filters, and equity context](docs/dashboard.png)](https://care-gap-engine.streamlit.app)
 
 ## The problem
 
